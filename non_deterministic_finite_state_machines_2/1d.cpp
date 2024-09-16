@@ -6,6 +6,7 @@ inline int charToInt(char ch) {
     return ((int) ch) - 48;
 }
 
+
 bool f(const std::string &str) {
     std::set<int> states;
     int i = 0;
