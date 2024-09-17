@@ -1,2 +1,10 @@
 .vscode
 binaries
+
+finite_state_machines_old
+minimization_fsm_old
+non-deterministic_fsm_old
+
+old_1.md
+
+temp.cpp
